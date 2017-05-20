@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/grzegorz/Documents/python-ml-tutorial/sentiment_net.tfl"
+all_model_checkpoint_paths: "/home/grzegorz/Documents/python-ml-tutorial/sentiment_net.tfl"
